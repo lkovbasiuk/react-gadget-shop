@@ -7,15 +7,13 @@ The project provides a responsive and user-friendly shopping experience with pro
 
 ## Live Demo
 
-Experience the live website:
-https://lkovbasiuk.github.io/react-gadget-shop/
+Experience the live website [here](https://lkovbasiuk.github.io/react-gadget-shop/)
 
 ---
 
 ## Design Reference
 
-Design reference:
-https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f
+Design reference [here](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f)
 
 ---
 
